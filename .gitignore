@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# PyTorch ML Models
+*.pt
+models/
+
 # C extensions
 *.so
 
